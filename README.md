@@ -1,7 +1,7 @@
 # Project1
 Object Recognition using Furniture dataset
 
-Synopsis
+SYNOPSIS
 
 1.	Introduction
 
@@ -22,13 +22,21 @@ In this project, the classification model of furniture (5 classes) is built usin
 4.	Plan of work
 
      Activity 1: Idea generation
+     
      Activity 2: Research
+     
      Activity 3: planning
+     
      Activity4: dataset collection
+     
      Activity 5: Programming/Implementation
+     
      Activity 6: Testing/Analysis
+     
      Activity 7: Finishing
+     
      Activity 8: Synopsis
+     
      Activity 9: Presentation
      
      

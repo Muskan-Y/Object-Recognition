@@ -19,5 +19,26 @@ The main aim of our project is to write a code that recognizes and labels the ob
 
 In this project, the classification model of furniture (5 classes) is built using Convolutional Neural Networks (CNN).
 
+4.	Plan of work
+
+     Activity 1: Idea generation
+     Activity 2: Research
+     Activity 3: planning
+     Activity4: dataset collection
+     Activity 5: Programming/Implementation
+     Activity 6: Testing/Analysis
+     Activity 7: Finishing
+     Activity 8: Synopsis
+     Activity 9: Presentation
+     
+     
+	5.	Briefing 
+
+In this project, we first read all the images from the dataset and train the code on them along with keeping their labels in check. Secondly optimizers are been used to minimize the redundancy if any produced during the process. CNN algorithm is used for filtering out each and every corner for better accuracy, precision and f1 score.
+										
+
+																	
+
+
 
 
